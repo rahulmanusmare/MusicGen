@@ -1,6 +1,6 @@
 # MusicGen
 
-## abstract
+## Abstract
 The goal of the project is to generate music from scratch of from any partially given sequence of a music. Existing music generation are generalised in terms of their generated music output. Our approach involves music generation according to a specific genre or also in a generalised form.
 
 ## Introduction
